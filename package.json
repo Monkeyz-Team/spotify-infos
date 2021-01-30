@@ -1,0 +1,27 @@
+{
+  "name": "spotify-infos",
+  "version": "1.0.0",
+  "description": "Lists all song information in a spotify playlist",
+  "main": "index.js",
+  "repository": "https://github.com/Monkeyz-Team/spotify-infos",
+  "author": "Monkeyz Team",
+  "license": "BSD 3-Clause",
+  "engines": {
+    "node": "12.x"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "keywords": [
+    "spotify",
+    "spotify-infos",
+    "playlist",
+    "spotify-playlist",
+    "information",
+    "info",
+    "music"
+  ]
+}
